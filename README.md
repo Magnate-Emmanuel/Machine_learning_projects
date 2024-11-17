@@ -1,2 +1,2 @@
-# Machine_learning_projects
+# Machine learning projects
 This project contains machine learning projects
